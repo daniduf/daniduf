@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @daniduf
 - 👀 I’m interested in growth hacking, digital marketing, data science and business development
 - 🌱 I’m currently learning computer science and data science
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: https://www.linkedin.com/in/danielduenasfrankfurt/
 
 <!---
